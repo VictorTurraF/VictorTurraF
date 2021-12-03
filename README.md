@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-turra-flor%C3%AAncio-6362241b5/?locale=en_US)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/victor.turra.f/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorTurraF.VictorTurraF)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorTurraF.VictorTurraF) -->
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTurraF&show_icons=true&count_private=true&include_all_commits=true" />
