@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Victor Turra.
 🔭 I’m currently working on [@eficazconsultoria](https://github.com/eficazconsultoria)<br />
-🌱 I’m currently learning Laravel | Lumen | Vtex IO <br />
+🌱 I’m currently learning Symfony and NextJS <br />
 ⚡ Fun fact: I'm also a guitarist 🎸.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-turra-flor%C3%AAncio-6362241b5/?locale=en_US)
