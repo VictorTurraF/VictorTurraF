@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Victor Turra.
-🔭 I’m currently working as a freelancer
+🔭 I’m currently working as a freelancer <br />
 🌱 I’m currently learning Clean Architecture <br />
 ⚡ Fun fact: I'm also a guitarist 🎸.
 
